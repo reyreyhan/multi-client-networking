@@ -1,0 +1,5 @@
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Client_MultiClient\Client_MultiClient\Client_MultiClient\bin\Debug\Client_MultiClient.exe.config
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Client_MultiClient\Client_MultiClient\Client_MultiClient\bin\Debug\Client_MultiClient.exe
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Client_MultiClient\Client_MultiClient\Client_MultiClient\bin\Debug\Client_MultiClient.pdb
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Client_MultiClient\Client_MultiClient\Client_MultiClient\obj\Debug\Client_MultiClient.exe
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Client_MultiClient\Client_MultiClient\Client_MultiClient\obj\Debug\Client_MultiClient.pdb

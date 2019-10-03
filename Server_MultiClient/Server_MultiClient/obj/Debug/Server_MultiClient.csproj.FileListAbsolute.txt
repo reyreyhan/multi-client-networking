@@ -1,0 +1,6 @@
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\bin\Debug\Server_MultiClient.exe.config
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\obj\Debug\Server_MultiClient.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\bin\Debug\Server_MultiClient.exe
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\bin\Debug\Server_MultiClient.pdb
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\obj\Debug\Server_MultiClient.exe
+D:\Kuliah\Semester 3\Pratikum Pemrograman Jaringan\Multi Client\Server\Server_MultiClient\Server_MultiClient\obj\Debug\Server_MultiClient.pdb
